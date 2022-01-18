@@ -20,4 +20,9 @@ export const Routes = [{
     route: "/users/:id",
     controller: UserController,
     action: "remove"
+}, {
+    method: "update",
+    route: "/users/:id",
+    controller: UserController,
+    action: "update"
 }];
