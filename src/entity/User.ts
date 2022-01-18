@@ -1,0 +1,30 @@
+// import {Entity, PrimaryGeneratedColumn, Column} from "typeorm";
+
+
+// @Entity()
+// export class Cep {
+//     @PrimaryGeneratedColumn
+//     id: number;
+
+//     @Column()
+//     cep: string;
+
+// }
+
+
+// @Entity()
+// export class User {
+
+//     @PrimaryGeneratedColumn()
+//     id: number;
+
+//     @Column()
+//     firstName: string;
+
+//     @Column()
+//     lastName: string;
+
+//     @Column()
+//     age: number;
+
+// }
